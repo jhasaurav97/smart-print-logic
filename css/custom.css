@@ -1,0 +1,27 @@
+.ftco-services .nav-pills .nav-link i {
+  font-size: 18px;
+}
+
+.hero {
+  margin-top: 82px;
+}
+
+@media screen and (max-width: 1000px) {
+  .hero{
+    margin-top: 0px;
+  }
+  .navbar .navbar-brand{
+    font-size: 18px;
+  }
+}
+
+.navbar {
+  box-shadow: 1px 0px 5px #000;
+}
+
+.choose-us {
+  background-image: url(../images/why.webp);
+  background-size: 100vw 100%;
+  background-repeat: no-repeat;
+}
+
